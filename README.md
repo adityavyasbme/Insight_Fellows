@@ -1,6 +1,6 @@
 # Insight_Fellows
 
-* Post issues, code, or any ideas in the 'Issues' section
+* Post issues, code, system design, or other ideas in the 'Issues' section
 
 ## Posting Rule: 
 Create an issue and tag it with list of available labels. The more labels, more precise results you will get. 
